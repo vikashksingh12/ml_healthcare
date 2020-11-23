@@ -1,0 +1,645 @@
+col_names,col_desc
+State,Other
+State / District Name,Other
+SAMPLE PARTICULARS - Sample Units - Total,Total
+SAMPLE PARTICULARS - Sample Units - Rural,Rural
+SAMPLE PARTICULARS - Sample Units - Urban,Urban
+SAMPLE PARTICULARS - Households - Total,Total
+SAMPLE PARTICULARS - Households - Rural,Rural
+SAMPLE PARTICULARS - Households - Urban,Urban
+SAMPLE PARTICULARS - Population - Total,Total
+SAMPLE PARTICULARS - Population - Rural,Rural
+SAMPLE PARTICULARS - Population - Urban,Urban
+SAMPLE PARTICULARS - Ever Married Women (aged 15-49 years) - Total,Total
+SAMPLE PARTICULARS - Ever Married Women (aged 15-49 years) - Rural,Rural
+SAMPLE PARTICULARS - Ever Married Women (aged 15-49 years) - Urban,Urban
+SAMPLE PARTICULARS - Currently Married Women (aged 15-49 years) - Total,Total
+SAMPLE PARTICULARS - Currently Married Women (aged 15-49 years) - Rural,Rural
+SAMPLE PARTICULARS - Currently Married Women (aged 15-49 years) - Urban,Urban
+SAMPLE PARTICULARS - Children 12-23 months - Total,Total
+SAMPLE PARTICULARS - Children 12-23 months - Rural,Rural
+SAMPLE PARTICULARS - Children 12-23 months - Urban,Urban
+HOUSEHOLD CHARACTERISTICS - Average Household Size - SC - Total,Total
+HOUSEHOLD CHARACTERISTICS - Average Household Size - SC - Rural,Rural
+HOUSEHOLD CHARACTERISTICS - Average Household Size - SC - Urban,Urban
+HOUSEHOLD CHARACTERISTICS - Average Household Size - ST - Total,Total
+HOUSEHOLD CHARACTERISTICS - Average Household Size - ST - Rural,Rural
+HOUSEHOLD CHARACTERISTICS - Average Household Size - ST - Urban,Urban
+HOUSEHOLD CHARACTERISTICS - Average Household Size - All - Total,Total
+HOUSEHOLD CHARACTERISTICS - Average Household Size - All - Rural,Rural
+HOUSEHOLD CHARACTERISTICS - Average Household Size - All - Urban,Urban
+HOUSEHOLD CHARACTERISTICS - Population below age 15 years (%) - Total,Total
+HOUSEHOLD CHARACTERISTICS - Population below age 15 years (%) - Rural,Rural
+HOUSEHOLD CHARACTERISTICS - Population below age 15 years (%) - Urban,Urban
+HOUSEHOLD CHARACTERISTICS - Dependency Ratio - Total,Total
+HOUSEHOLD CHARACTERISTICS - Dependency Ratio - Rural,Rural
+HOUSEHOLD CHARACTERISTICS - Dependency Ratio - Urban,Urban
+HOUSEHOLD CHARACTERISTICS - Currently Married Illiterate Women aged 15-49 years (%) - Total,Total
+HOUSEHOLD CHARACTERISTICS - Currently Married Illiterate Women aged 15-49 years (%) - Rural,Rural
+HOUSEHOLD CHARACTERISTICS - Currently Married Illiterate Women aged 15-49 years (%) - Urban,Urban
+SEX RATIO - Sex Ratio at Birth - Total,Total
+SEX RATIO - Sex Ratio at Birth - Rural,Rural
+SEX RATIO - Sex Ratio at Birth - Urban,Urban
+SEX RATIO - Sex Ratio (0- 4 years) - Total,Total
+SEX RATIO - Sex Ratio (0- 4 years) - Rural,Rural
+SEX RATIO - Sex Ratio (0- 4 years) - Urban,Urban
+SEX RATIO - Sex Ratio (All ages) - Total,Total
+SEX RATIO - Sex Ratio (All ages) - Rural,Rural
+SEX RATIO - Sex Ratio (All ages) - Urban,Urban
+EFFECTIVE LITERACY RATE - Person - Total,Total
+EFFECTIVE LITERACY RATE - Person - Rural,Rural
+EFFECTIVE LITERACY RATE - Person - Urban,Urban
+EFFECTIVE LITERACY RATE - Male - Total,Total
+EFFECTIVE LITERACY RATE - Male - Rural,Rural
+EFFECTIVE LITERACY RATE - Male - Urban,Urban
+EFFECTIVE LITERACY RATE - Female - Total,Total
+EFFECTIVE LITERACY RATE - Female - Rural,Rural
+EFFECTIVE LITERACY RATE - Female - Urban,Urban
+MARRIAGE - Marriages among Females below legal age (18 years) (%)# - Total,Total
+MARRIAGE - Marriages among Females below legal age (18 years) (%)# - Rural,Rural
+MARRIAGE - Marriages among Females below legal age (18 years) (%)# - Urban,Urban
+MARRIAGE - Marriages among Males below legal age (21 years) (%)# - Total,Total
+MARRIAGE - Marriages among Males below legal age (21 years) (%)# - Rural,Rural
+MARRIAGE - Marriages among Males below legal age (21 years) (%)# - Urban,Urban
+MARRIAGE - Currently Married Women aged 20-24 years married before legal age (18 years) (%) - Total,Total
+MARRIAGE - Currently Married Women aged 20-24 years married before legal age (18 years) (%) - Rural,Rural
+MARRIAGE - Currently Married Women aged 20-24 years married before legal age (18 years) (%) - Urban,Urban
+MARRIAGE - Currently Married Men aged 25-29 years married before legal age (21 years) (%) - Total,Total
+MARRIAGE - Currently Married Men aged 25-29 years married before legal age (21 years) (%) - Rural,Rural
+MARRIAGE - Currently Married Men aged 25-29 years married before legal age (21 years) (%) - Urban,Urban
+MARRIAGE - Mean age at Marriage# - Male - Total,Total
+MARRIAGE - Mean age at Marriage# - Male - Rural,Rural
+MARRIAGE - Mean age at Marriage# - Male - Urban,Urban
+MARRIAGE - Mean age at Marriage# - Female - Total,Total
+MARRIAGE - Mean age at Marriage# - Female - Rural,Rural
+MARRIAGE - Mean age at Marriage# - Female - Urban,Urban
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Person - Total,Total
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Person - Rural,Rural
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Person - Urban,Urban
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Male - Total,Total
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Male - Rural,Rural
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Male - Urban,Urban
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Female - Total,Total
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Female - Rural,Rural
+SCHOOLING STATUS - Children currently attending school (Age 6-17 years) (%) - Female - Urban,Urban
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Person - Total,Total
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Person - Rural,Rural
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Person - Urban,Urban
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Male - Total,Total
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Male - Rural,Rural
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Male - Urban,Urban
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Female - Total,Total
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Female - Rural,Rural
+SCHOOLING STATUS - Children attended before / Drop out (Age 6-17 years) (%) - Female - Urban,Urban
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Person - Total,Total
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Person - Rural,Rural
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Person - Urban,Urban
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Male - Total,Total
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Male - Rural,Rural
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Male - Urban,Urban
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Female - Total,Total
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Female - Rural,Rural
+WORK STATUS - Children aged 5-14 years engaged in work (%) - Female - Urban,Urban
+WORK STATUS - Work Participation Rate (15 years and above) - Person - Total,Total
+WORK STATUS - Work Participation Rate (15 years and above) - Person - Rural,Rural
+WORK STATUS - Work Participation Rate (15 years and above) - Person - Urban,Urban
+WORK STATUS - Work Participation Rate (15 years and above) - Male - Total,Total
+WORK STATUS - Work Participation Rate (15 years and above) - Male - Rural,Rural
+WORK STATUS - Work Participation Rate (15 years and above) - Male - Urban,Urban
+WORK STATUS - Work Participation Rate (15 years and above) - Female - Total,Total
+WORK STATUS - Work Participation Rate (15 years and above) - Female - Rural,Rural
+WORK STATUS - Work Participation Rate (15 years and above) - Female - Urban,Urban
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Person - Total",Total
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Person - Rural",Rural
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Person - Urban",Urban
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Male - Total",Total
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Male - Rural",Rural
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Male - Urban",Urban
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Female - Total",Total
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Female - Rural",Rural
+"DISABILITY - Prevalence of any type of Disability (Per 100,000 Population) - Female - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Person - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Person - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Person - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Male - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Male - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Male - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Female - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Female - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Severe - Female - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Person - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Person - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Person - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Male - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Male - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Male - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Female - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Female - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Major - Female - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Person - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Person - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Person - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Male - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Male - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Male - Urban",Urban
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Female - Total",Total
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Female - Rural",Rural
+"INJURY - Number of Injured Persons by type of Treatment received (Per 100,000 Population) - Minor - Female - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Person - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Person - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Person - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Male - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Male - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Male - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Female - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Female - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Female - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Person - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Person - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Person - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Male - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Male - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Male - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Female - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Female - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Female - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Person - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Person - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Person - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Male - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Male - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Male - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Female - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Female - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Female - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Person - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Person - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Person - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Male - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Male - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Male - Urban",Urban
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Female - Total",Total
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Female - Rural",Rural
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Female - Urban",Urban
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Person - Total,Total
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Person - Rural,Rural
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Person - Urban,Urban
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Male - Total,Total
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Male - Rural,Rural
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Male - Urban,Urban
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Female - Total,Total
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Female - Rural,Rural
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Any Source (%) - Female - Urban,Urban
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Person - Total,Total
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Person - Rural,Rural
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Person - Urban,Urban
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Male - Total,Total
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Male - Rural,Rural
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Male - Urban,Urban
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Female - Total,Total
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Female - Rural,Rural
+ACUTE ILLNESS - Persons suffering from Acute Illness and taking treatment from Government Source (%) - Female - Urban,Urban
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Person - Total",Total
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Person - Rural",Rural
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Person - Urban",Urban
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Male - Total",Total
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Male - Rural",Rural
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Male - Urban",Urban
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Female - Total",Total
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Female - Rural",Rural
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Female - Urban",Urban
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Person - Total,Total
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Person - Rural,Rural
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Person - Urban,Urban
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Male - Total,Total
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Male - Rural,Rural
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Male - Urban,Urban
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Female - Total,Total
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Female - Rural,Rural
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Female - Urban,Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Person - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Person - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Person - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Male - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Male - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Male - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Female - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Female - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Female - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Person - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Person - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Person - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Male - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Male - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Male - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Female - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Female - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Female - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Person - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Person - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Person - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Male - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Male - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Male - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Female - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Female - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Female - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Person - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Person - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Person - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Male - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Male - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Male - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Female - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Female - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Female - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Person - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Person - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Person - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Male - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Male - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Male - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Female - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Female - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Female - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Person - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Person - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Person - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Male - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Male - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Male - Urban",Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Female - Total",Total
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Female - Rural",Rural
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Female - Urban",Urban
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Person - Total,Total
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Person - Rural,Rural
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Person - Urban,Urban
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Male - Total,Total
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Male - Rural,Rural
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Male - Urban,Urban
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Female - Total,Total
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Female - Rural,Rural
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment (%) - Female - Urban,Urban
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Person - Total,Total
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Person - Rural,Rural
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Person - Urban,Urban
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Male - Total,Total
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Male - Rural,Rural
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Male - Urban,Urban
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Female - Total,Total
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Female - Rural,Rural
+CHRONIC ILLNESS - Having diagnosed for any kind of Chronic Illness and getting Regular Treatment from Government Source (%) - Female - Urban,Urban
+FERTILITY - Crude Birth Rate (CBR) - Total,Total
+FERTILITY - Crude Birth Rate (CBR) - Rural,Rural
+FERTILITY - Crude Birth Rate (CBR) - Urban,Urban
+FERTILITY - Natural Growth Rate - Total,Total
+FERTILITY - Natural Growth Rate - Rural,Rural
+FERTILITY - Natural Growth Rate - Urban,Urban
+FERTILITY - Total Fertility Rate - Total,Total
+FERTILITY - Total Fertility Rate - Rural,Rural
+FERTILITY - Total Fertility Rate - Urban,Urban
+FERTILITY - Women aged 20-24 reporting birth of order 2 & above (%) - Total,Total
+FERTILITY - Women aged 20-24 reporting birth of order 2 & above (%) - Rural,Rural
+FERTILITY - Women aged 20-24 reporting birth of order 2 & above (%) - Urban,Urban
+FERTILITY - Women reporting birth of order 3 & above (%) - Total,Total
+FERTILITY - Women reporting birth of order 3 & above (%) - Rural,Rural
+FERTILITY - Women reporting birth of order 3 & above (%) - Urban,Urban
+FERTILITY - Women with two children wanting no more children (%) - Total,Total
+FERTILITY - Women with two children wanting no more children (%) - Rural,Rural
+FERTILITY - Women with two children wanting no more children (%) - Urban,Urban
+FERTILITY - Women aged 15-19 years who were already mothers or pregnant at the time of survey (%) - Total,Total
+FERTILITY - Women aged 15-19 years who were already mothers or pregnant at the time of survey (%) - Rural,Rural
+FERTILITY - Women aged 15-19 years who were already mothers or pregnant at the time of survey (%) - Urban,Urban
+FERTILITY - Median age at first live birth of Women aged 15-49 years - Total,Total
+FERTILITY - Median age at first live birth of Women aged 15-49 years - Rural,Rural
+FERTILITY - Median age at first live birth of Women aged 15-49 years - Urban,Urban
+FERTILITY - Median age at first live birth of Women aged 25-49 years - Total,Total
+FERTILITY - Median age at first live birth of Women aged 25-49 years - Rural,Rural
+FERTILITY - Median age at first live birth of Women aged 25-49 years - Urban,Urban
+FERTILITY - Live Births taking place after an interval of 36 months (%) - Total,Total
+FERTILITY - Live Births taking place after an interval of 36 months (%) - Rural,Rural
+FERTILITY - Live Births taking place after an interval of 36 months (%) - Urban,Urban
+FERTILITY - Mean number of children ever born to Women aged 15-49 years - Total,Total
+FERTILITY - Mean number of children ever born to Women aged 15-49 years - Rural,Rural
+FERTILITY - Mean number of children ever born to Women aged 15-49 years - Urban,Urban
+FERTILITY - Mean number of children surviving to Women aged 15-49 years - Total,Total
+FERTILITY - Mean number of children surviving to Women aged 15-49 years - Rural,Rural
+FERTILITY - Mean number of children surviving to Women aged 15-49 years - Urban,Urban
+FERTILITY - Mean number of children ever born to Women aged 45-49 years - Total,Total
+FERTILITY - Mean number of children ever born to Women aged 45-49 years - Rural,Rural
+FERTILITY - Mean number of children ever born to Women aged 45-49 years - Urban,Urban
+ABORTION - Pregnancy to Women aged 15-49 years resulting in abortion (%) - Total,Total
+ABORTION - Pregnancy to Women aged 15-49 years resulting in abortion (%) - Rural,Rural
+ABORTION - Pregnancy to Women aged 15-49 years resulting in abortion (%) - Urban,Urban
+ABORTION - Women who received any ANC before abortion (%) - Total,Total
+ABORTION - Women who received any ANC before abortion (%) - Rural,Rural
+ABORTION - Women who received any ANC before abortion (%) - Urban,Urban
+ABORTION - Women who went for Ultrasound before abortion (%) - Total,Total
+ABORTION - Women who went for Ultrasound before abortion (%) - Rural,Rural
+ABORTION - Women who went for Ultrasound before abortion (%) - Urban,Urban
+ABORTION - Average Month of pregnancy at the time of abortion - Total,Total
+ABORTION - Average Month of pregnancy at the time of abortion - Rural,Rural
+ABORTION - Average Month of pregnancy at the time of abortion - Urban,Urban
+ABORTION - Abortion performed by skilled health personnel (%) - Total,Total
+ABORTION - Abortion performed by skilled health personnel (%) - Rural,Rural
+ABORTION - Abortion performed by skilled health personnel (%) - Urban,Urban
+ABORTION - Abortion taking place in Institution (%) - Total,Total
+ABORTION - Abortion taking place in Institution (%) - Rural,Rural
+ABORTION - Abortion taking place in Institution (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Method (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Method (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Method (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Modern Method (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Modern Method (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Modern Method (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Female Sterilization (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Female Sterilization (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Female Sterilization (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Male Sterilization (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Male Sterilization (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Male Sterilization (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Copper-T/IUD (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Copper-T/IUD (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Copper-T/IUD (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Pills (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Pills (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Pills (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Condom/Nirodh (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Condom/Nirodh (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Condom/Nirodh (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Emergency Contraceptive Pills (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Emergency Contraceptive Pills (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Emergency Contraceptive Pills (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Traditional Method (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Traditional Method (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Any Traditional Method (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Periodic Abstinence (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Periodic Abstinence (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Periodic Abstinence (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Withdrawal (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Withdrawal (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - Withdrawal (%) - Urban,Urban
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - LAM (%) - Total,Total
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - LAM (%) - Rural,Rural
+FAMILY PLANNING PRACTICES (CMW AGED 15-49 YEARS) - Current Usage - LAM (%) - Urban,Urban
+UNMET NEED FOR FAMILY PLANNING - Unmet need for Spacing (%) - Total,Total
+UNMET NEED FOR FAMILY PLANNING - Unmet need for Spacing (%) - Rural,Rural
+UNMET NEED FOR FAMILY PLANNING - Unmet need for Spacing (%) - Urban,Urban
+UNMET NEED FOR FAMILY PLANNING - Unmet need for Limiting (%) - Total,Total
+UNMET NEED FOR FAMILY PLANNING - Unmet need for Limiting (%) - Rural,Rural
+UNMET NEED FOR FAMILY PLANNING - Unmet need for Limiting (%) - Urban,Urban
+UNMET NEED FOR FAMILY PLANNING - Total Unmet need (%) - Total,Total
+UNMET NEED FOR FAMILY PLANNING - Total Unmet need (%) - Rural,Rural
+UNMET NEED FOR FAMILY PLANNING - Total Unmet need (%) - Urban,Urban
+ANTE NATAL CARE - Currently Married Pregnant Women aged 15-49 years registered for ANC (%) - Total,Total
+ANTE NATAL CARE - Currently Married Pregnant Women aged 15-49 years registered for ANC (%) - Rural,Rural
+ANTE NATAL CARE - Currently Married Pregnant Women aged 15-49 years registered for ANC (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who received any Antenatal Check-up (%) - Total,Total
+ANTE NATAL CARE - Mothers who received any Antenatal Check-up (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who received any Antenatal Check-up (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who had Antenatal Check-up in First Trimester (%) - Total,Total
+ANTE NATAL CARE - Mothers who had Antenatal Check-up in First Trimester (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who had Antenatal Check-up in First Trimester (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who received 3 or more Antenatal Care (%) - Total,Total
+ANTE NATAL CARE - Mothers who received 3 or more Antenatal Care (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who received 3 or more Antenatal Care (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who received at least one Tetanus Toxoid (TT) injection (%) - Total,Total
+ANTE NATAL CARE - Mothers who received at least one Tetanus Toxoid (TT) injection (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who received at least one Tetanus Toxoid (TT) injection (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who consumed IFA for 100 days or more (%) - Total,Total
+ANTE NATAL CARE - Mothers who consumed IFA for 100 days or more (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who consumed IFA for 100 days or more (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who had Full Antenatal Check-up (%) - Total,Total
+ANTE NATAL CARE - Mothers who had Full Antenatal Check-up (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who had Full Antenatal Check-up (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who received ANC from Govt. Source (%) - Total,Total
+ANTE NATAL CARE - Mothers who received ANC from Govt. Source (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who received ANC from Govt. Source (%) - Urban,Urban
+ANTE NATAL CARE - Mothers whose Blood Pressure (BP) taken (%) - Total,Total
+ANTE NATAL CARE - Mothers whose Blood Pressure (BP) taken (%) - Rural,Rural
+ANTE NATAL CARE - Mothers whose Blood Pressure (BP) taken (%) - Urban,Urban
+ANTE NATAL CARE - Mothers whose Blood taken for Hb (%) - Total,Total
+ANTE NATAL CARE - Mothers whose Blood taken for Hb (%) - Rural,Rural
+ANTE NATAL CARE - Mothers whose Blood taken for Hb (%) - Urban,Urban
+ANTE NATAL CARE - Mothers who underwent Ultrasound (%) - Total,Total
+ANTE NATAL CARE - Mothers who underwent Ultrasound (%) - Rural,Rural
+ANTE NATAL CARE - Mothers who underwent Ultrasound (%) - Urban,Urban
+DELIVERY CARE - Institutional Delivery (%) - Total,Total
+DELIVERY CARE - Institutional Delivery (%) - Rural,Rural
+DELIVERY CARE - Institutional Delivery (%) - Urban,Urban
+DELIVERY CARE - Delivery at Government Institution (%) - Total,Total
+DELIVERY CARE - Delivery at Government Institution (%) - Rural,Rural
+DELIVERY CARE - Delivery at Government Institution (%) - Urban,Urban
+DELIVERY CARE - Delivery at Private Institution (%) - Total,Total
+DELIVERY CARE - Delivery at Private Institution (%) - Rural,Rural
+DELIVERY CARE - Delivery at Private Institution (%) - Urban,Urban
+DELIVERY CARE - Delivery at Home (%) - Total,Total
+DELIVERY CARE - Delivery at Home (%) - Rural,Rural
+DELIVERY CARE - Delivery at Home (%) - Urban,Urban
+DELIVERY CARE - Delivery at home conducted by skilled health personnel (%) - Total,Total
+DELIVERY CARE - Delivery at home conducted by skilled health personnel (%) - Rural,Rural
+DELIVERY CARE - Delivery at home conducted by skilled health personnel (%) - Urban,Urban
+DELIVERY CARE - Safe Delivery (%) - Total,Total
+DELIVERY CARE - Safe Delivery (%) - Rural,Rural
+DELIVERY CARE - Safe Delivery (%) - Urban,Urban
+DELIVERY CARE - Caesarean out of total delivery taken place in Government Institutions (%) - Total,Total
+DELIVERY CARE - Caesarean out of total delivery taken place in Government Institutions (%) - Rural,Rural
+DELIVERY CARE - Caesarean out of total delivery taken place in Government Institutions (%) - Urban,Urban
+DELIVERY CARE - Caesarean out of total delivery taken place in Private Institutions (%) - Total,Total
+DELIVERY CARE - Caesarean out of total delivery taken place in Private Institutions (%) - Rural,Rural
+DELIVERY CARE - Caesarean out of total delivery taken place in Private Institutions (%) - Urban,Urban
+POST NATAL CARE - Less than 24 hrs. stay in institution after delivery (%) - Total,Total
+POST NATAL CARE - Less than 24 hrs. stay in institution after delivery (%) - Rural,Rural
+POST NATAL CARE - Less than 24 hrs. stay in institution after delivery (%) - Urban,Urban
+POST NATAL CARE - Mothers who received Post-natal Check-up within 48 hrs. of delivery (%) - Total,Total
+POST NATAL CARE - Mothers who received Post-natal Check-up within 48 hrs. of delivery (%) - Rural,Rural
+POST NATAL CARE - Mothers who received Post-natal Check-up within 48 hrs. of delivery (%) - Urban,Urban
+POST NATAL CARE - Mothers who received Post-natal Check-up within 1 week of delivery (%) - Total,Total
+POST NATAL CARE - Mothers who received Post-natal Check-up within 1 week of delivery (%) - Rural,Rural
+POST NATAL CARE - Mothers who received Post-natal Check-up within 1 week of delivery (%) - Urban,Urban
+POST NATAL CARE - Mothers who did not receive any Post-natal Check-up (%) - Total,Total
+POST NATAL CARE - Mothers who did not receive any Post-natal Check-up (%) - Rural,Rural
+POST NATAL CARE - Mothers who did not receive any Post-natal Check-up (%) - Urban,Urban
+POST NATAL CARE - New borns who were checked up within 24 hrs. of birth (%) - Total,Total
+POST NATAL CARE - New borns who were checked up within 24 hrs. of birth (%) - Rural,Rural
+POST NATAL CARE - New borns who were checked up within 24 hrs. of birth (%) - Urban,Urban
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for delivery under JSY (%) - Total,Total
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for delivery under JSY (%) - Rural,Rural
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for delivery under JSY (%) - Urban,Urban
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for institutional delivery under JSY (%) - Total,Total
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for institutional delivery under JSY (%) - Rural,Rural
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for institutional delivery under JSY (%) - Urban,Urban
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for Government Institutional delivery under JSY (%) - Total,Total
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for Government Institutional delivery under JSY (%) - Rural,Rural
+JANANI SURAKSHA YOJANA (JSY) - Mothers who availed financial assistance for Government Institutional delivery under JSY (%) - Urban,Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months having Immunization Card (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months having Immunization Card (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months having Immunization Card (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received BCG (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received BCG (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received BCG (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received 3 doses of Polio vaccine (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received 3 doses of Polio vaccine (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received 3 doses of Polio vaccine (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received 3 doses of DPT vaccine (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received 3 doses of DPT vaccine (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received 3 doses of DPT vaccine (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received Measles vaccine (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received Measles vaccine (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months who have received Measles vaccine (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months Fully Immunized (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months Fully Immunized (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children aged 12-23 months Fully Immunized (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children who have received Polio dose at birth (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children who have received Polio dose at birth (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children who have received Polio dose at birth (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children who did not receive any vaccination (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children who did not receive any vaccination (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children who did not receive any vaccination (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children (aged 6-35 months) who received at least one Vitamin A dose during last six months (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children (aged 6-35 months) who received at least one Vitamin A dose during last six months (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children (aged 6-35 months) who received at least one Vitamin A dose during last six months (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children (aged 6-35 months) who received IFA tablets/syrup during last 3 months (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children (aged 6-35 months) who received IFA tablets/syrup during last 3 months (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children (aged 6-35 months) who received IFA tablets/syrup during last 3 months (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children whose birth weight was taken (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children whose birth weight was taken (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children whose birth weight was taken (%) - Urban",Urban
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children with birth weight less than 2.5 Kg. (%) - Total",Total
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children with birth weight less than 2.5 Kg. (%) - Rural",Rural
+"IMMUNIZATION, VITAMIN A & IRON SUPPLEMENT AND BIRTH WEIGHT - Children with birth weight less than 2.5 Kg. (%) - Urban",Urban
+CHILDHOOD DISEASES - Children suffering from Diarrhoea (%) - Total,Total
+CHILDHOOD DISEASES - Children suffering from Diarrhoea (%) - Rural,Rural
+CHILDHOOD DISEASES - Children suffering from Diarrhoea (%) - Urban,Urban
+CHILDHOOD DISEASES - Children suffering from Diarrhoea who received HAF/ORS/ORT (%) - Total,Total
+CHILDHOOD DISEASES - Children suffering from Diarrhoea who received HAF/ORS/ORT (%) - Rural,Rural
+CHILDHOOD DISEASES - Children suffering from Diarrhoea who received HAF/ORS/ORT (%) - Urban,Urban
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection (%) - Total,Total
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection (%) - Rural,Rural
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection (%) - Urban,Urban
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection who sought treatment (%) - Total,Total
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection who sought treatment (%) - Rural,Rural
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection who sought treatment (%) - Urban,Urban
+CHILDHOOD DISEASES - Children suffering from Fever (%) - Total,Total
+CHILDHOOD DISEASES - Children suffering from Fever (%) - Rural,Rural
+CHILDHOOD DISEASES - Children suffering from Fever (%) - Urban,Urban
+CHILDHOOD DISEASES - Children suffering from Fever who sought treatment (%) - Total,Total
+CHILDHOOD DISEASES - Children suffering from Fever who sought treatment (%) - Rural,Rural
+CHILDHOOD DISEASES - Children suffering from Fever who sought treatment (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - Children breastfed within one hour of birth (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - Children breastfed within one hour of birth (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - Children breastfed within one hour of birth (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - Children (aged 6-35 months) exclusively breastfed for at least six months (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - Children (aged 6-35 months) exclusively breastfed for at least six months (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - Children (aged 6-35 months) exclusively breastfed for at least six months (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Water (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Water (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Water (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Animal/Formula Milk (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Animal/Formula Milk (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Animal/Formula Milk (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Semi-Solid mashed food (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Semi-Solid mashed food (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Semi-Solid mashed food (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Solid (Adult) Food (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Solid (Adult) Food (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Solid (Adult) Food (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Vegetables/Fruits (%) - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Vegetables/Fruits (%) - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - CHILDREN WHO RECEIVED FOODS OTHER THAN BREAST MILK DURING FIRST 6 MONTHS - Vegetables/Fruits (%) - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Water - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Water - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Water - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Animal/Formula Milk - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Animal/Formula Milk - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Animal/Formula Milk - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Semi-Solid mashed food - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Semi-Solid mashed food - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Semi-Solid mashed food - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Solid (Adult) Food - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Solid (Adult) Food - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Solid (Adult) Food - Urban,Urban
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Vegetables/Fruits - Total,Total
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Vegetables/Fruits - Rural,Rural
+BREASTFEEDING AND SUPPLEMENTATION - AVERAGE MONTH BY WHICH CHILDREN RECEIVED FOODS OTHER THAN BREAST MILK - Vegetables/Fruits - Urban,Urban
+BIRTH REGISTRATION - Birth Registered (%) - Total,Total
+BIRTH REGISTRATION - Birth Registered (%) - Rural,Rural
+BIRTH REGISTRATION - Birth Registered (%) - Urban,Urban
+BIRTH REGISTRATION - Children whose birth was registered and received Birth Certificate (%) - Total,Total
+BIRTH REGISTRATION - Children whose birth was registered and received Birth Certificate (%) - Rural,Rural
+BIRTH REGISTRATION - Children whose birth was registered and received Birth Certificate (%) - Urban,Urban
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of HIV/AIDS (%) - Total",Total
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of HIV/AIDS (%) - Rural",Rural
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of HIV/AIDS (%) - Urban",Urban
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of RTI/STI (%) - Total",Total
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of RTI/STI (%) - Rural",Rural
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of RTI/STI (%) - Urban",Urban
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of HAF/ORS/ORT/ZINC (%) - Total",Total
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of HAF/ORS/ORT/ZINC (%) - Rural",Rural
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of HAF/ORS/ORT/ZINC (%) - Urban",Urban
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of danger signs of ARI/Pneumonia (%) - Total",Total
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of danger signs of ARI/Pneumonia (%) - Rural",Rural
+"AWARENESS ON HIV/AIDS, RTI/STI, HAF/ORS/ORT/ZINC AND ARI/PNEUMONIA - Women who are aware of danger signs of ARI/Pneumonia (%) - Urban",Urban
+MORTALITY - Crude Death Rate (CDR) - Total - Person,Total
+MORTALITY - Crude Death Rate (CDR) - Total - Male,Total
+MORTALITY - Crude Death Rate (CDR) - Total - Female,Total
+MORTALITY - Crude Death Rate (CDR) - Rural - Person,Rural
+MORTALITY - Crude Death Rate (CDR) - Rural - Male,Rural
+MORTALITY - Crude Death Rate (CDR) - Rural - Female,Rural
+MORTALITY - Crude Death Rate (CDR) - Urban - Person,Urban
+MORTALITY - Crude Death Rate (CDR) - Urban - Male,Urban
+MORTALITY - Crude Death Rate (CDR) - Urban - Female,Urban
+MORTALITY - Infant Mortality Rate (IMR) - Total - Person,Total
+MORTALITY - Infant Mortality Rate (IMR) - Total - Male,Total
+MORTALITY - Infant Mortality Rate (IMR) - Total - Female,Total
+MORTALITY - Infant Mortality Rate (IMR) - Rural - Person,Rural
+MORTALITY - Infant Mortality Rate (IMR) - Rural - Male,Rural
+MORTALITY - Infant Mortality Rate (IMR) - Rural - Female,Rural
+MORTALITY - Infant Mortality Rate (IMR) - Urban - Person,Urban
+MORTALITY - Infant Mortality Rate (IMR) - Urban - Male,Urban
+MORTALITY - Infant Mortality Rate (IMR) - Urban - Female,Urban
+MORTALITY - Neo-natal Mortality Rate - Total,Total
+MORTALITY - Neo-natal Mortality Rate - Rural,Rural
+MORTALITY - Neo-natal Mortality Rate - Urban,Urban
+MORTALITY - Post Neo-natal Mortality Rate - Total,Total
+MORTALITY - Post Neo-natal Mortality Rate - Rural,Rural
+MORTALITY - Post Neo-natal Mortality Rate - Urban,Urban
+MORTALITY - Under Five Mortality Rate (U5MR) - Total - Person,Total
+MORTALITY - Under Five Mortality Rate (U5MR) - Total - Male,Total
+MORTALITY - Under Five Mortality Rate (U5MR) - Total - Female,Total
+MORTALITY - Under Five Mortality Rate (U5MR) - Rural - Person,Rural
+MORTALITY - Under Five Mortality Rate (U5MR) - Rural - Male,Rural
+MORTALITY - Under Five Mortality Rate (U5MR) - Rural - Female,Rural
+MORTALITY - Under Five Mortality Rate (U5MR) - Urban - Person,Urban
+MORTALITY - Under Five Mortality Rate (U5MR) - Urban - Male,Urban
+MORTALITY - Under Five Mortality Rate (U5MR) - Urban - Female,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Birth Rate - Total - Lower Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Birth Rate - Total - Upper Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Birth Rate - Rural - Lower Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Birth Rate - Rural - Upper Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Birth Rate - Urban - Lower Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Birth Rate - Urban - Upper Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Death Rate - Total - Lower Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Death Rate - Total - Upper Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Death Rate - Rural - Lower Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Death Rate - Rural - Upper Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Death Rate - Urban - Lower Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Crude Death Rate - Urban - Upper Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Total - Lower Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Total - Upper Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Rural - Lower Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Rural - Upper Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Urban - Lower Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Urban - Upper Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Total - Lower Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Total - Upper Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Rural - Lower Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Rural - Upper Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Urban - Lower Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Urban - Upper Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Sex Ratio at Birth - Total - Lower Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Sex Ratio at Birth - Total - Upper Limit,Total
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Sex Ratio at Birth - Rural - Lower Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Sex Ratio at Birth - Rural - Upper Limit,Rural
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Sex Ratio at Birth - Urban - Lower Limit,Urban
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Sex Ratio at Birth - Urban - Upper Limit,Urban
