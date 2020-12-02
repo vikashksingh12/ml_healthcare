@@ -1,0 +1,55 @@
+Dependent Columns
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Person - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Male - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Diarrhoea/Dysentery - Female - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Person - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Male - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Acute Respiratory Infection (ARI) - Female - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Person - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Male - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Fever (All Types) - Female - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Person - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Male - Urban"
+"ACUTE ILLNESS - Persons suffering from Acute Illness (Per 100,000 Population) - Any type of Acute Illness - Female - Urban"
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Person - Urban"
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Male - Urban"
+"CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness (Per 100,000 Population) - Female - Urban"
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Person - Urban
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Male - Urban
+CHRONIC ILLNESS - Having any kind of Symptoms of Chronic Illness and sought Medical Care (%) - Female - Urban
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Person - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Male - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Diabetes - Female - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Person - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Male - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Hypertension - Female - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Person - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Male - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Tuberculosis (TB) - Female - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Person - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Male - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Asthma / Chronic Respiratory Disease - Female - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Person - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Male - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Arthritis - Female - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Person - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Male - Urban"
+"CHRONIC ILLNESS - Having diagnosed for Chronic Illness (Per 100,000 Population) - Any kind of Chronic Illness - Female - Urban"
+CHILDHOOD DISEASES - Children suffering from Diarrhoea (%) - Urban
+CHILDHOOD DISEASES - Children suffering from Diarrhoea who received HAF/ORS/ORT (%) - Urban
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection (%) - Urban
+CHILDHOOD DISEASES - Children suffering from Acute Respiratory Infection who sought treatment (%) - Urban
+CHILDHOOD DISEASES - Children suffering from Fever (%) - Urban
+CHILDHOOD DISEASES - Children suffering from Fever who sought treatment (%) - Urban
+MORTALITY - Infant Mortality Rate (IMR) - Urban - Person
+MORTALITY - Infant Mortality Rate (IMR) - Urban - Male
+MORTALITY - Infant Mortality Rate (IMR) - Urban - Female
+MORTALITY - Neo-natal Mortality Rate - Urban
+MORTALITY - Post Neo-natal Mortality Rate - Urban
+MORTALITY - Under Five Mortality Rate (U5MR) - Urban - Person
+MORTALITY - Under Five Mortality Rate (U5MR) - Urban - Male
+MORTALITY - Under Five Mortality Rate (U5MR) - Urban - Female
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Urban - Lower Limit
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Infant Mortality Rate - Urban - Upper Limit
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Urban - Lower Limit
+CONFIDENCE INTERVAL (95%) FOR SOME IMPORTANT INDICATORS - Under Five Mortality Rate (U5MR) - Urban - Upper Limit
